@@ -6,7 +6,7 @@ opkg install ffmpeg exteplayer3 enigma2-plugin-extensions-serviceapp
 
 wait
 
-wget -O /tmp//etc.tar.gz "https://raw.githubusercontent.com/tarekzoka/SKINS/main/etc.tar.gz"
+wget -O /tmp//etc.tar.gz "https://github.com/tarekzoka/serviceapp/raw/main/serviceapp.tar.gz"
 
 tar -xzf /tmp/*.tar.gz -C /
 
